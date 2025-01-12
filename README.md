@@ -88,3 +88,18 @@ ALTER TABLE [dbo].[NewITAssetDetails_Desktop] ADD  CONSTRAINT [D_reportViewStatu
 GO
 
 
+1.title
+2.Project phase
+3.Task
+4.Milestone
+5.Substaks
+6.Milestone
+7.Description
+8. Impact
+9. Priority
+10. Date Opened
+11. Date Closed
+12. Issue Owner
+13. Department
+14. Status
+15. Notes
